@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>PHP Создание переменных</h1>
+
+<?php
+$txt = "Привет Мир!";
+$x = 5;
+$y = 10.5;
+
+echo $txt;
+echo "<br>";
+echo $x;
+echo "<br>";
+echo $y;
+?>
+
+</body>
+</html>
